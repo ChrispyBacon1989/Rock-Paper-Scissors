@@ -1,4 +1,0 @@
-Once upon a time
-
-https://athletics.co/api/athletes/<athletesName>
-set FLASK_APP=simpleAPIExercise.py
